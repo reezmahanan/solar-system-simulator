@@ -1,4 +1,4 @@
-// filepath: README.md
+
 # Animated Solar System Simulator
 
 A beautiful animated solar system simulation built with Python and Pygame, demonstrating object-oriented programming with `__init__` functions.
@@ -14,7 +14,7 @@ A beautiful animated solar system simulation built with Python and Pygame, demon
 
 ## Screenshots
 
-![Solar System Animation](screenshot.png)
+![Solar System Animation](https://github.com/reezmahanan/solar-system-simulator/blob/main/solar_system.png)
 
 ## Planets Included
 
